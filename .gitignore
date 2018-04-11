@@ -17,7 +17,7 @@ target/
 .mvn
 .sts4-cache
 
-ui
+
 node
 *.Logs
 *.log
